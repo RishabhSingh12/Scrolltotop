@@ -32,8 +32,6 @@ function App() {
   },[])
 
   
-
-
   const clickHandler =() => {
     window.scrollTo({
       top:0,
